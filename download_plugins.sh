@@ -1,0 +1,1 @@
+git clone https://github.com/leafgarland/typescript-vim my_plugins/typescript-vim
